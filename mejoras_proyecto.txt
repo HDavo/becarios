@@ -1,0 +1,3 @@
+meter las partes de texto html dentro una plantillla para poder imprimir usandolas y quitarlas.
+evitar los números y expresiones mágicas.
+usar enum para las expresiones regulares
