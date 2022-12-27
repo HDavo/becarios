@@ -1,3 +1,3 @@
-meter las partes de texto html dentro una plantillla para poder imprimir usandolas y quitarlas.
+meter las partes de texto html dentro una plantillla para poder imprimir usandolas y quitarlas del fichero de formulario, para evitar repetir código.
 evitar los números y expresiones mágicas.
-usar enum para las expresiones regulares
+usar enum para las expresiones regulares (con el objetivo de mejorar la lectura del código y entender que hace cada una de las cosas).
